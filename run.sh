@@ -1,4 +1,3 @@
-set -e
 DATA_DIR="$(pwd)/data"
 LOCAL_DATA_DIR="$(pwd)/local_data"
 case "$1" in
